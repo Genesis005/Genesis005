@@ -1,4 +1,4 @@
-Mi nombre es Génesis Fernández, soy estudiante de ingenieria en informatica, actualmente curso el 6 semestre, soy programadora Front-end y esty interesada en el desarollo web, actualmente manejo 
+Mi nombre es Génesis Fernández, soy estudiante de ingenieria en informatica, actualmente curso el 6 semestre, soy programadora Front-end y estoy interesada en el desarollo web, actualmente manejo 
 lenguajes como JavaScript, CSS y Pseudocódigo HTML.
 
 <!---
